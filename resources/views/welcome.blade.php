@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Examen de LARAVEL con VUE Arcadio Gonzales
                 </div>
 
                 <div class="links">
